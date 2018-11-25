@@ -1,0 +1,9 @@
+regionId: cn-hangzhou
+accessKeyId: 
+accessKeySecret: 
+getIpUrl: http://getIp.example.com
+interval: 600
+domainName: example.com
+describeDomainRecords:
+  - resourceRecord: www
+    type: A
